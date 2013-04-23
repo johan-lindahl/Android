@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">User Lockout</string>
+    <string name="title_activity_main">User Lockout</string>
+    <string name="IDS_EXIT">EXIT</string>
+    <string name="IDS_HOME_INSTRUCTIONS">You must select this app as the default home screen.</string>
+    <string name="IDS_HOME_SET_ACTIVITY">OK, LET ME SET AS HOME SCREEN</string>
+    <string name="title_activity_home_sel">User Lockout</string>
+
+</resources>
